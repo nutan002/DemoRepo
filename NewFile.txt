@@ -44,3 +44,4 @@ Step 8
 mvn package
 Step 9
 java -jar target/DemoProject-1.0-SNAPSHOT.jar
+$git remote set-url origin https://copy token id @github.com / user name or repo path
